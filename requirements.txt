@@ -1,0 +1,6 @@
+pandas 
+numpy
+scikit-learn
+matplotlib
+seaborn
+nbconvert # to convert the ipynb file usable
